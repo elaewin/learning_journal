@@ -1,4 +1,5 @@
-## Day 4 - 6/16
+# LJ Code 201 - Day 4
+6/16
 
 Yesterday I felt like I was clinging madly to my Python knowledge, because I was very frustrated with the process of writing loops in js. Today was much better--I felt like I have a much better handle on things, although I'm sure that a lot of that was the pair/group programming work for the lab in the afternoon.  I was working with Derek and David, and we really blazed through the work.  I was even able to get the stretch goals done after we turned in the assignment, which was awesome.
 
