@@ -28,4 +28,10 @@ function sumArray(testArray){
 }
 ```
 
+I worked too fast this afternoon, too, and forgot to pull info down from the repo before creating one of my new branches. To fix this: 
+
+* switch back to master branch
+* pull updates from the github repo
+* switch back to newbranch
+* ```git merge master newbranch```
 
