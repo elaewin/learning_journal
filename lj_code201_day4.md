@@ -7,6 +7,9 @@ CSS layout stuff continues to be frustrating. I really feel kind of directionles
 
 I'm still trying to get a handle on how relative and absolute positioning relate. (Although I haven't yet watched the stuff that Brian put in the Slack channel yet, and hopefully that will help.) 
 
+(ETA: I went over the relative/absolute review at 
+http://codepen.io/briannations/pen/OXXoxX and I get how to *use* relative and absolute together, but I'm still not clear on why.)
+
 I felt yesterday like my solution to the lab for day three was unreasonably clunky and there should have been some way to simplify it--but the code review solution this morning was almost exactly like mine.
 
 ### Things I need to remember:
@@ -45,3 +48,5 @@ function my5Questions() {
   }
 }
 ```
+
+Putting the answers into a multi-layer array and then pulling the answers out really helped me understand how to get info from that kind of array.
