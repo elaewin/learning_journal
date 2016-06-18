@@ -33,5 +33,5 @@ I worked too fast this afternoon, too, and forgot to pull info down from the rep
 * switch back to master branch
 * pull updates from the github repo
 * switch back to newbranch
-* ```git merge master newbranch```
+* then ```git merge master newbranch```
 
