@@ -35,3 +35,116 @@ I worked too fast this afternoon, too, and forgot to pull info down from the rep
 * switch back to newbranch
 * then ```git merge master newbranch```
 
+### Code I'm proud of:
+
+Brian gave us a CSS layout exercise, and I'm pretty happy with how I solved it. 
+
+He gave us a layout to attempt, which I've tried to replicate here:
+
+```
+|-------------------------------------------------------|
+|           |                                           |
+|           |                 400 x 100                 |
+|           |                                           |
+|           |                                           |
+|           |-------------------------------------------|
+|           |                     |                     |
+|           |      200 x 100      |      200 x 100      |
+|           |                     |                     |
+|           |                     |                     |
+| 100 x 400 |-------------------------------------------|
+|           |          |          |          |          |
+|           |   100 x  |   100 x  |   100 x  |   100 x  |
+|           |    100   |    100   |    100   |    100   |
+|           |          |          |          |          |
+|           |-------------------------------------------|
+|           |                                           |
+|           |                 400 x 100                 |
+|           |                                           |
+|           |                                           |
+|-------------------------------------------------------|
+```
+
+I looked at the layout, and figured that every box had at least one dimension of 100px. So I set the body size to 500 x 400, and the divs to 100 x 100 and float: left. Then I created 3 classes: 400px wide, 200px wide, and 400px high. After that, applying the classes to the divs was pretty straightforward.
+
+**My CSS:**
+
+```
+/* clear browser formatting, outline all elements so it's easier to see what's going on */
+* { 
+  margin: 0;
+  padding: 0;
+  outline: 1px dotted green;
+}
+
+/* Body width limited so elements don't float outside the square */
+body {
+  width: 500px;
+}
+
+div {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+.h400 {
+  height: 400px;
+}
+
+.w400 {
+  width: 400px;
+}
+
+.w200 {
+  width: 200px;
+}
+
+/* Paragraph styling is not really necessary for the exercise, but makes it look cleaner */
+p {
+  text-align: center;
+  padding-top: 20px;
+}
+```
+
+**And the html:**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Layout Exercist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="h400">
+    <p>100 x 400</p>
+  </div>
+  <div class="w400">
+    <p>400 x 100</p>
+  </div>
+  <div class="w200">
+    <p>200 x 100</p>
+  </div>
+  <div class="w200">
+    <p>200 x 100</p>
+  </div>
+  <div>
+    <p>100 x 100</p>
+  </div>
+  <div>
+    <p>100 x 100</p>
+  </div>
+  <div>
+    <p>100 x 100</p>
+  </div>
+  <div>
+    <p>100 x 100</p>
+  </div>
+  <div class="w400">
+    <p>400 x 100</p>
+  </div>
+</body>
+</html>
+```
+
