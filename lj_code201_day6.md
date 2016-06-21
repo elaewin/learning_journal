@@ -22,7 +22,7 @@ It's frustrating/illuminating, because none of the things discussed in the break
  
 ### Code Sample I'm Proud of
 
-Or, at least, it makde me feel accomplished. :)
+Or, at least, it made me feel accomplished. :)
 
 For all of my functions, I passed in the name of the store as the variable, and then used dot notation within the function to get to the variables in the store objects.
 
@@ -40,7 +40,7 @@ function generateHourlyTraffic(store) {
   }
 }
 ```
-The rather detailed console.log came about because I kept getting a double list of numbers, and was trying to figure out why. It turns out that if you call the same function twice, you get twice as many numbers.  Who knew?  But at least I figured out what was wrong. 
+The rather detailed console.log came about because I kept getting a double list of numbers, and was trying to figure out why. It turns out that if you call the same function twice, you get twice as many numbers. Who knew? But at least I figured out what was wrong. 
 
 I was also trying to list out all of the hours that the stores were open explicitly, since the data was collected for each hour the store is open, not all of the hours between 6am and 8pm (which gives an extra hour.)
 
