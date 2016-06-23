@@ -46,3 +46,4 @@ The complicated part, or at least the part that was hardest to wrap my brain aro
 
 * Read over variable and function names the next day and make sure that they still make sense.
 * Make a new branch for weekly project code for each day's lecture to practice more branching/merging--and try to remember to ONLY TAKE NOTES about things I want to change/remove/think about. Trying to make changes based on examples leads to a) fucked up code, and/or b) missing bits of lecture.
+* ManBearPig (Content) as mnemonic to keep the CSS box model straight.
