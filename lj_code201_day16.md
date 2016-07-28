@@ -1,5 +1,5 @@
-# LJ Code 201 - Day 16
-7/05
+## LJ Code 201 - Day 16
+##### 7/05/16
 
 First day of project week. The group git flow is still a bit shaky, but we haven't had any major conflicts (I think maybe only one merge conflict at all). Partly because we're all sitting around the same table and so we never really get to 5 PRs before a PR gets merged and we keep going. Fervent desire to avoid horrific merge conflicts is a good motivator, apparently.
 

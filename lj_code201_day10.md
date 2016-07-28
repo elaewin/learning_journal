@@ -1,11 +1,11 @@
-# LJ Code 201 - Day 10
-6/24
+## LJ Code 201 - Day 10
+##### 6/24/16
 
 Working on the group project design comp today.
 
-I felt really uncertain working on this project. I feel like I should have had a better handle on the questions that needed to be answered to set a baseline that all of us could work from. 
+I felt really uncertain working on this project. I feel like I should have had a better handle on the questions that needed to be answered to set a baseline that all of us could work from.
 
-Sam went over creating a function to append items to the DOM in our js for the cookie stand project. I've been trying to figure out how to adapt that function so that I can use it for the places where I append something that has a class or id. 
+Sam went over creating a function to append items to the DOM in our js for the cookie stand project. I've been trying to figure out how to adapt that function so that I can use it for the places where I append something that has a class or id.
 
 ### Code Sample I'm Proud of
 

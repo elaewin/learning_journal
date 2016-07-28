@@ -1,5 +1,5 @@
-# LJ Code 201 - Day 12
-6/28
+## LJ Code 201 - Day 12
+##### 6/28/16
 
 I'm VERY glad that Sam went over one way to go about building part of the lab from yesterday. It made me realize that as much as I worked on simplifying what I was working on, I was still over-complicating things. I think that I may still be doing that, though.
 
@@ -9,7 +9,7 @@ I've also noticed that I have a real problem with getting frustrated with myself
 
 ### Code Sample I'm Proud of/that Vexed Me Today
 
-Actually nothing today really stood out. I felt like I was reworking things so much that it was more of a slow slog than any particular moments of note. 
+Actually nothing today really stood out. I felt like I was reworking things so much that it was more of a slow slog than any particular moments of note.
 
 That said, I really think that I should be able to make this simpler...
 
@@ -49,4 +49,4 @@ var checkContent = function(index, array) {
 
 * If something is the same across all instances of an object, MAKE THAT THE DEFAULT IN THE CONSTRUCTOR.
 * If something breaks, take a few moments (or a few minutes) to stop and really think about what could have caused the error. Don't immediately dive back in and try to fix it--that leads to chasing your own tail around in the code, and losing track of what, exactly, went wrong first...
-* 
+*

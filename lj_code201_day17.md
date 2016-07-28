@@ -1,7 +1,7 @@
-# LJ Code 201 - Day 17
-7/06
+## LJ Code 201 - Day 17
+##### 7/06/16
 
-Today was a lot of little bits of things. 
+Today was a lot of little bits of things.
 
 The nice thing about all four of use working by ourselves is the ability to pick something off of the issues list, work it out, and then move on to the next thing. The problem with all four of us working on stuff by ourselves is that I feel like I didn't really accomplish anything concrete--even though I know that I did.
 

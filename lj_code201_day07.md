@@ -1,11 +1,11 @@
-# LJ Code 201 - Day 7
-6/21
+## LJ Code 201 - Day 7
+##### 6/21/16
 
 I think that the pace of class is starting to catch up with me.  I'm exhausted tonight.
 
 Lots of stuff today, and while I'm not sure that I have constructors down completely, having a clear template to follow to change an object into a constructor makes them a lot less frightening. Once again, step by step is key.
 
-I wound up 'out-clevering' myself between yesterday and today. Yesterday I wrote my functions so that they took the hours each store opened and closed, and used those hours to generate the array of hours needed for the lab. Except that today, I found that by doing that, I would have to populate the header for the tables we were creating by picking one of the stores, and using the hours from that store as the headers. Which kind of defeated the purpose of allowing for stores being open for different times. So I scrapped those parts of my code, and just built an array with the hours in it. 
+I wound up 'out-clevering' myself between yesterday and today. Yesterday I wrote my functions so that they took the hours each store opened and closed, and used those hours to generate the array of hours needed for the lab. Except that today, I found that by doing that, I would have to populate the header for the tables we were creating by picking one of the stores, and using the hours from that store as the headers. Which kind of defeated the purpose of allowing for stores being open for different times. So I scrapped those parts of my code, and just built an array with the hours in it.
 
 I would up staying late, but finished the js stretch goals, so yay! Or as much yay as I have the energy for, which isn't much right now.
 

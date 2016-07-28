@@ -1,13 +1,13 @@
-# LJ Code 201 - Day 11
-06/27
+## LJ Code 201 - Day 11
+##### 6/27/16
 
 *From my homework submission:*
 
 This lab was teeth-grindingly frustrating. I *think* that I managed to get everything working, but every step seemed to take forever--and I spent a *lot* of time planning what to do. The approaches that I laid out for myself worked...about half the time.
 
-The getImages function that I wrote was originally nested for loops, then two for loops in sequence--which worked about 95% of the time. After much frustration, Nick finally figured out that what I'd written was choking if the last of the three items was a repeat, and starting the count over again, and he helped me restructure it into the working version. 
+The getImages function that I wrote was originally nested for loops, then two for loops in sequence--which worked about 95% of the time. After much frustration, Nick finally figured out that what I'd written was choking if the last of the three items was a repeat, and starting the count over again, and he helped me restructure it into the working version.
 
-Then the function that I'd written to count the clicks worked except when the image at imagesArray[0] was clicked, because apparently js doesn't accept '0' as a valid value that can be assigned to an id. 
+Then the function that I'd written to count the clicks worked except when the image at imagesArray[0] was clicked, because apparently js doesn't accept '0' as a valid value that can be assigned to an id.
 
 I planned the hell out of this lab, and I don't want to think about how long it would have taken without that. (And without existing bits of code from last week (like the buildElement function) that I could repurpose for this lab.)
 
@@ -60,5 +60,5 @@ var checkRefs = function() {
 
 **Things to Remember:**
 
-* console.log *eveything*. Then do it again. SERIOUSLY.
+* console.log *everything*. Then do it again. SERIOUSLY.
 * When I write pseudocode, make sure that it goes into its own commit, so that I can refer back to it when I get hopelessly lost on a bit of code or a function, and can start over again without having to try and remember where the hell I was going with it.

@@ -1,5 +1,5 @@
-#LJ Code 201 - Day 5
-6/17
+## LJ Code 201 - Day 5
+##### 6/17/16
 
 I think my brain melted after the long lecture today. Note to self: bring snacks. Also note to self: Cat shirt Friday.
 
@@ -28,7 +28,7 @@ function sumArray(testArray){
 }
 ```
 
-I worked too fast this afternoon, too, and forgot to pull info down from the repo before creating one of my new branches. To fix this: 
+I worked too fast this afternoon, too, and forgot to pull info down from the repo before creating one of my new branches. To fix this:
 
 * switch back to master branch
 * pull updates from the github repo
@@ -37,7 +37,7 @@ I worked too fast this afternoon, too, and forgot to pull info down from the rep
 
 ### Code I'm proud of:
 
-Brian gave us a CSS layout exercise, and I'm pretty happy with how I solved it. 
+Brian gave us a CSS layout exercise, and I'm pretty happy with how I solved it.
 
 He gave us a layout to attempt, which I've tried to replicate here:
 
@@ -71,7 +71,7 @@ I looked at the layout, and figured that every box had at least one dimension of
 
 ```
 /* clear browser formatting, outline all elements so it's easier to see what's going on */
-* { 
+* {
   margin: 0;
   padding: 0;
   outline: 1px dotted green;
@@ -147,4 +147,3 @@ p {
 </body>
 </html>
 ```
-

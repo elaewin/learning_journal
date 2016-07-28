@@ -1,7 +1,7 @@
-# LJ Code 201 - Day 18
-7/07
+## LJ Code 201 - Day 18
+##### 7/07/16
 
-Typos are the bane of my existence. 
+Typos are the bane of my existence.
 
 ### Code Sample I'm Proud of and that Vexed Me Today
 This is the js that I wrote today to add a new restaurant to our project. Originally it was going to have a section to add a review as well, but it took so long to get the new restaurant part working that I decided not to keep that part, even though a lot of it was already written.
@@ -89,7 +89,7 @@ populateTypeList(cuisineType3);
 
 **Things to Remember:**
 
-* Check ABOVE where something is displaying oddly in Atom. 
+* Check ABOVE where something is displaying oddly in Atom.
 * So. Many. Typos. Are inevitable, and having someone else look over the code helps a hell of a lot.
 * I need to remember to be more patient with myself when debugging--or just get someone to help me out, because I get really damn frustrated.
 * event listeners on a submit button have to listen for submit, NOT click.
