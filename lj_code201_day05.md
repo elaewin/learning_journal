@@ -1,4 +1,4 @@
-# #LJ Code 201 - Day 5
+#LJ Code 201 - Day 5
 6/17
 
 I think my brain melted after the long lecture today. Note to self: bring snacks. Also note to self: Cat shirt Friday.
